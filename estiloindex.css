@@ -1,0 +1,58 @@
+body{
+
+background-color:aliceblue
+
+
+}
+
+.productos {
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    background-color: white;
+    text-align: center;
+    
+
+
+}
+.productos:hover {
+    box-shadow: 0 8px 16px 0 rgba(31, 43, 211, 0.5);
+}
+
+.productos img {
+    width: 350px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.productos h5 {
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.productos h6 {
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+}
+
+
+.texto1 h1{
+
+text-align: center;
+padding: 100px;
+
+
+}
+
+.nav justify-content-center{
+
+padding: 500px;
+
+}
