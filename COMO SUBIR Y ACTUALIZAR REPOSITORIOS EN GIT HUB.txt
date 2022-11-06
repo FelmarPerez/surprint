@@ -1,0 +1,7 @@
+Para subir reepositorios crearemos una cuenta en GitHub.com, crearemos un repositorio con su respectivo nombre y url y subirla a la red.
+
+Instalar Git en la pc, luego iniciar la consola de git dentro de la carpeta donde esta el html.
+Git Clone simboliza copiar el proyecto a cualquier ruta de la pc.
+iniciar con el comando git add . = Estamos diciendole a git que añada.
+Seguimos con el comando git commit -m "NOMBRE DEL CAMBIO REALIZADO".
+Seguimos con el comando git push = que le indicamos que suba el cambio a la nube o al repositorio.
